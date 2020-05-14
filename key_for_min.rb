@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
   kookoo = nil 
   name_hash.each do |key,val| 
     if val < maxvee 
-      maxvee = val 
+      minvee = val 
       kookoo = key 
     end 
   end 
