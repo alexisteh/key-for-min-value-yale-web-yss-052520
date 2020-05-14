@@ -9,6 +9,7 @@ def key_for_min_value(name_hash)
       maxvee = val 
       kookoo = key 
     end 
+  end 
   puts kookoo
   kookoo 
 end
